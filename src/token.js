@@ -1,0 +1,48 @@
+export const blueToken = {
+    id: 1,
+    type: 'blue',
+    startRow: 6,
+    startCol: 1,
+    turnRow: 0,
+    turnCol: 0,
+    currentRow: 0,
+    currentCol: 0,
+    endRow: 7,
+    endCol: 6,
+};
+export const redToken = {
+    id: 1,
+    type: 'red',
+    startRow: 1,
+    startCol: 8,
+    turnRow: 0,
+    turnCol: 0,
+    currentRow: 0,
+    currentCol: 0,
+    endRow: 7,
+    endCol: 6,
+};
+export const greenToken = {
+    id: 1,
+    type: 'green',
+    startRow: 8,
+    startCol: 13,
+    turnRow: 0,
+    turnCol: 0,
+    currentRow: 0,
+    currentCol: 0,
+    endRow: 7,
+    endCol: 6,
+};
+export const yellowToken = {
+    id: 1,
+    type: 'yellow',
+    startRow: 13,
+    startCol: 6,
+    turnRow: 0,
+    turnCol: 0,
+    currentRow: 0,
+    currentCol: 0,
+    endRow: 7,
+    endCol: 6,
+};
