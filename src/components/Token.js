@@ -6,7 +6,7 @@ const Token = ({ boxToken, bgColor, borderColor = 'border-white' }) => {
 
     const turnColor = color[turn];
 
-    let tokenColor = borderColor.split('-')[1];
+    // let tokenColor = borderColor.split('-')[1];
 
 
 
