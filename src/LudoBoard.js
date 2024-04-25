@@ -23,7 +23,7 @@ const LudoBoard = () => {
                             style={{ width: cellSize, height: cellSize }}
                         >
                             {/* {rowIndex + "" + colIndex} */}
-                            {checkStarCell(rowIndex, colIndex) && <MdOutlineStar className='text-gray-600 text-2xl' />}
+                            {checkStarCell(rowIndex, colIndex) && <MdOutlineStar className='text-gray-600 text-xl md:text-2xl' />}
                         </div>
                     ))}
                 </div>
